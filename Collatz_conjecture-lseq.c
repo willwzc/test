@@ -2,30 +2,39 @@
 
 int main(void)
 {
-  int o;
-  int i = 1;
+  int l = 0;
+  int m;
+  long long g = 0;
+  int x;
   for(int n = 1; n <= 10000000; n++)
   {
+    long long o = n;
+    int i = 0;
     do
     {
-      if(n % 2 == 0)
-      {  
-        o = n/2;
-        i++;
-        printf("%i\n", o);
+      if(o % 2 == 0)
+      {
+        o = o/2;
       }
-      else if(o == 1)
+      else if(o != 1)
       {  
-        printf("%i\n", o);
-        printf("The length of hailstone sequence is %i \n", i);
+        o = 3 * o + 1;
       }
-      else if(n % 2 == 1)
-      {  
-        o = 3 * n + 1;
-        i++;
-        printf("%i\n", o);
+      if(o > g)
+      {
+        g = o;
+        x = n;
       }
+      if(o != 1 || n != 1)
+      i++;
     }while(o != 1);
+    if(i > l)
+    {
+      l = i;
+      m = n;
+    }
   }
+printf("the longest length is %i for initial number %i\n", l, m);
+printf("the largest number is %lli for initial number %i\n", g, x);
 return 0;
 }
