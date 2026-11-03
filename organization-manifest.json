@@ -389,7 +389,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "5F254A22BF4ED785348F79C8B8C8C13BCFADC68A22C5ADE24E05AD2C30C116EF",
-      "length": 184
+      "length": 184,
+      "git_tracked": true
     },
     {
       "original_path": "hello_world",
@@ -398,7 +399,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "22E84FF02D18C09C0841B4C13F25E43F29B446D3615A89B298D4AA7BBF12E772",
-      "length": 21608
+      "length": 21608,
+      "git_tracked": false
     },
     {
       "original_path": "area_rectangle.c",
@@ -407,7 +409,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "A52C1E328660B109E14CDE943248CDFFB6639F8CBC4EA395F1FABCB180C3A0E5",
-      "length": 244
+      "length": 244,
+      "git_tracked": true
     },
     {
       "original_path": "area_rectangle",
@@ -416,7 +419,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "889EC93A506D1E4BB2EFF8CD33C2D1A9F9A91EBA0AA9A55BF27DA2BF870BB5A8",
-      "length": 21608
+      "length": 21608,
+      "git_tracked": false
     },
     {
       "original_path": "char.c",
@@ -425,7 +429,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "98094BC44B078B7C53769007D2479850E0D432A1C2FF74534290AABFF4D505B5",
-      "length": 126
+      "length": 126,
+      "git_tracked": true
     },
     {
       "original_path": "char",
@@ -434,7 +439,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "1C52B90E0708C64CAEDDDBCA9368FB86DB33B757F5630D81A112F31B6E1FA8E9",
-      "length": 21600
+      "length": 21600,
+      "git_tracked": false
     },
     {
       "original_path": "double.c",
@@ -443,7 +449,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "3D67970E624595151D03275DCB2EF6E0E61C9384858D918CB76205F649B1E397",
-      "length": 203
+      "length": 203,
+      "git_tracked": true
     },
     {
       "original_path": "double",
@@ -452,7 +459,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "6FF3734A76F803276006BC7CA22F413E0C55A72B5A3362E210928FC18D3660E6",
-      "length": 21600
+      "length": 21600,
+      "git_tracked": false
     },
     {
       "original_path": "precedence.c",
@@ -461,7 +469,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "29C582432A94E5A5F0A1C6BABC4DF1C07B689D457E056BB0066EE9899162873E",
-      "length": 119
+      "length": 119,
+      "git_tracked": true
     },
     {
       "original_path": "precedence",
@@ -470,7 +479,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "A294E42CEFFE73F69E4C91DA2B014453D1CD4B437D2866C0CB58B429825A40D4",
-      "length": 18104
+      "length": 18104,
+      "git_tracked": false
     },
     {
       "original_path": "power.c",
@@ -479,7 +489,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "E978E563A45399E4388E3ED570589D344E6403AAED5BD512B890BCB409A4C29E",
-      "length": 139
+      "length": 139,
+      "git_tracked": true
     },
     {
       "original_path": "power",
@@ -488,7 +499,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "EDC2BA399311B38E41908D951DA47BBA8B7142794A06E41CF46AC26588D984C6",
-      "length": 18152
+      "length": 18152,
+      "git_tracked": false
     },
     {
       "original_path": "power-trans.c",
@@ -497,7 +509,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "60668757F25E5089169A240ED4255827D6BF95EEB407F316B71157684CBDB232",
-      "length": 139
+      "length": 139,
+      "git_tracked": true
     },
     {
       "original_path": "power-trans",
@@ -506,7 +519,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "4360C0E9E8D11A697494BC7F1773E6B151DDBA6523CE42EA2E273E1B2179C437",
-      "length": 18160
+      "length": 18160,
+      "git_tracked": false
     },
     {
       "original_path": "randnum.c",
@@ -515,7 +529,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "1F443FFA9A863046E2070E9603408B70E2294AE77F6EB02B222BD1F6FABCF00A",
-      "length": 365
+      "length": 365,
+      "git_tracked": true
     },
     {
       "original_path": "randnum",
@@ -524,7 +539,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "5E97018F192345F67A508A60A02967BDA449F9D38D89D1B2C6C5CE71F5C9D1F6",
-      "length": 18264
+      "length": 18264,
+      "git_tracked": false
     },
     {
       "original_path": "min.c",
@@ -533,7 +549,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "1A5F0EA31C7F7450C1437B2FCE5ACF99591690CB7C8735223AAF573081ABEE36",
-      "length": 338
+      "length": 338,
+      "git_tracked": true
     },
     {
       "original_path": "min",
@@ -542,7 +559,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "0707A02D58FA7046F161D7FF7ACCEE2FFED5C079AC4AA54699B5D580B6A77E59",
-      "length": 18152
+      "length": 18152,
+      "git_tracked": false
     },
     {
       "original_path": "countdown.c",
@@ -551,7 +569,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "AA3D0B9AD98EA066F7CE890513B98D5E1FB95A15BE5B1F8B8AEAB56ECDA773B2",
-      "length": 114
+      "length": 114,
+      "git_tracked": true
     },
     {
       "original_path": "countdown",
@@ -560,7 +579,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "63132F05E5E69057B2BE7733B40BDDB2F8F7748C922612C37FBBDC2D5CA107EA",
-      "length": 18152
+      "length": 18152,
+      "git_tracked": false
     },
     {
       "original_path": "triples_N.c",
@@ -569,7 +589,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "E0B2CBF6F51E90E4CBC6BEA68CEDFD9E01E913FC461E94B958508FE211E69A20",
-      "length": 272
+      "length": 272,
+      "git_tracked": true
     },
     {
       "original_path": "triples_N",
@@ -578,7 +599,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "AC3C124C273D86ED064F0510C188853221D5DA745132B0E63B127BE794C2138F",
-      "length": 18104
+      "length": 18104,
+      "git_tracked": false
     },
     {
       "original_path": "min_func.c",
@@ -587,7 +609,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "B7CC97E7732D912ACDCBB963837B0CB9326957FFC967AE4B2ADA898A07153DDF",
-      "length": 398
+      "length": 398,
+      "git_tracked": true
     },
     {
       "original_path": "min_func",
@@ -596,7 +619,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "9DC40915722FE3B4A97CE31C4EAD8687E1A5383343BA2E203592630383274D69",
-      "length": 18240
+      "length": 18240,
+      "git_tracked": false
     },
     {
       "original_path": "call_by_value.c",
@@ -605,7 +629,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "BC1F4BF893C1DD78B99401C66AB8C659CB7DED41179712D416B79B6F8944A496",
-      "length": 137
+      "length": 137,
+      "git_tracked": true
     },
     {
       "original_path": "call_by_value",
@@ -614,7 +639,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "6A7A8CEEEAEC145B018218A70D7B8186CA5F8C7412612E18BAC7059E794C0B34",
-      "length": 18136
+      "length": 18136,
+      "git_tracked": false
     },
     {
       "original_path": "numfactors.c",
@@ -623,7 +649,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "5DBA39D9B60F8579B326F6CD0297F7200822458FB5E89E1AD177B2034451345A",
-      "length": 315
+      "length": 315,
+      "git_tracked": true
     },
     {
       "original_path": "numfactors",
@@ -632,7 +659,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "0FCF01CB14D1049F949C22B8FD383175529E14DCAF1A29AA317949D4E1DF9303",
-      "length": 18136
+      "length": 18136,
+      "git_tracked": false
     },
     {
       "original_path": "asserts.c",
@@ -641,7 +669,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "E9CC698526B74090F107872EC17D67ED1C8050E2A093B3C88DB0F77430508837",
-      "length": 389
+      "length": 389,
+      "git_tracked": true
     },
     {
       "original_path": "asserts",
@@ -650,7 +679,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "D545D95C856115A25B3502ED6D490B1A7279932D355D03403FFD826F43C6FC18",
-      "length": 18192
+      "length": 18192,
+      "git_tracked": false
     },
     {
       "original_path": "Multiply.c",
@@ -659,7 +689,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "A1C9F7609892691B06D19DEF4743DFAEE13E1B87091748D9CC4BEEC6D493D152",
-      "length": 439
+      "length": 439,
+      "git_tracked": true
     },
     {
       "original_path": "Multiply",
@@ -668,7 +699,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "B91513337DFEC16A0BFDD36C5809F1879C6985CC4AA6B9CA1A22967D4792F94A",
-      "length": 18216
+      "length": 18216,
+      "git_tracked": false
     },
     {
       "original_path": "macros.c",
@@ -677,7 +709,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "1E64B6AD653406CED9B2FB5C25D8B34622FDC04BC729C66D64C7EA12B2CE6A49",
-      "length": 218
+      "length": 218,
+      "git_tracked": true
     },
     {
       "original_path": "macros",
@@ -686,7 +719,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "3F4C0A0557A2D8807171A5D3A5A0C0F60051EE5AE8B87B7EDAAC847AC72D5628",
-      "length": 18208
+      "length": 18208,
+      "git_tracked": false
     },
     {
       "original_path": "inline.c",
@@ -695,7 +729,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "105556686843E75A868E8B8AB046B94D535CD49533B7CDEC579A3E85B1035337",
-      "length": 292
+      "length": 292,
+      "git_tracked": true
     },
     {
       "original_path": "inline",
@@ -704,7 +739,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "631196BDB291DF6B1B959C4EAC6E7BA6C37C348F4120E7BBCF2B2129BD83E7F3",
-      "length": 18232
+      "length": 18232,
+      "git_tracked": false
     },
     {
       "original_path": "factorial.c",
@@ -713,7 +749,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "2F60E20CDB5D1DFD6C2EB89F5DB6685100BAFC25799C2CA8E50182ED63671CC5",
-      "length": 312
+      "length": 312,
+      "git_tracked": true
     },
     {
       "original_path": "factorial",
@@ -722,7 +759,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "5BA88D6A974B76240F5350EC7CBD8C81995C959B1E3902DC71D0FD79B52EC39C",
-      "length": 16048
+      "length": 16048,
+      "git_tracked": false
     },
     {
       "original_path": "multi_advanced.c",
@@ -731,7 +769,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "EAB05B2A8246DBF2923D1A21420FB3FA17F7A5040CFAE4E12003CF6697F01B8A",
-      "length": 424
+      "length": 424,
+      "git_tracked": true
     },
     {
       "original_path": "multi_advanced",
@@ -740,7 +779,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "7177BAC7B79A80BB2500C9264A674CEFCAA410AC17FED988B75A9DEF72439911",
-      "length": 16080
+      "length": 16080,
+      "git_tracked": false
     },
     {
       "original_path": "float.c",
@@ -749,7 +789,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "88DC6AC3914A5BC8B053A69FB599DB898FB92B762CF92D4FFB574329015A5224",
-      "length": 95
+      "length": 95,
+      "git_tracked": true
     },
     {
       "original_path": "float",
@@ -758,7 +799,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "900ACD069493014B34FEB7300913EEEC9EAB383470AF057FF75CE7044231B41D",
-      "length": 15960
+      "length": 15960,
+      "git_tracked": false
     },
     {
       "original_path": "sizeof.c",
@@ -767,7 +809,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "22A59FE44F7FB1D103E6F4F1C644A54648D7E06CA1FA631156A45507A727C360",
-      "length": 475
+      "length": 475,
+      "git_tracked": true
     },
     {
       "original_path": "sizeof",
@@ -776,7 +819,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "880E0D335E31BB6D30D500069E7C50C1C60DC67A77F1FE959CFDE8A40AA44C7A",
-      "length": 15960
+      "length": 15960,
+      "git_tracked": false
     },
     {
       "original_path": "cast.c",
@@ -785,7 +829,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "BBC9931E24DACB57B094E50B6FCE0014FCFA1CFBEBCA6BE111BDEE9B4AB5210B",
-      "length": 508
+      "length": 508,
+      "git_tracked": true
     },
     {
       "original_path": "cast",
@@ -794,7 +839,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "5DF5C59DF4C8FE38787F46B15D28CB3E8497ABE1C531DCD861651E5FF7B81BF1",
-      "length": 16184
+      "length": 16184,
+      "git_tracked": false
     },
     {
       "original_path": "getput.c",
@@ -803,7 +849,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "E4CE1F7601FB2905BC3CEFB852805804F3B2FB4EC473F72904C05EE58C623D17",
-      "length": 148
+      "length": 148,
+      "git_tracked": true
     },
     {
       "original_path": "getput",
@@ -812,7 +859,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "91507D7E622930D1B92E7BC56295FA2989D50E17CEE6E694624A4CF6CD932CBA",
-      "length": 16008
+      "length": 16008,
+      "git_tracked": false
     },
     {
       "original_path": "getput-2.c",
@@ -821,7 +869,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "8E9776612BF102DC59768CE596EE1B5C489460985A43163625A9A011DFD39B74",
-      "length": 139
+      "length": 139,
+      "git_tracked": true
     },
     {
       "original_path": "getput-2",
@@ -830,7 +879,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "D7DBEE302A24A80E133C54285AFC1C437FEA1D01C08230CA771DE5813318746D",
-      "length": 16008
+      "length": 16008,
+      "git_tracked": false
     },
     {
       "original_path": "cap.c",
@@ -839,7 +889,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "B675BA400D3F93A243A1CAC0BE48FD8415CEB2F0D1F4A10262A9A1BEDD6E6A6C",
-      "length": 205
+      "length": 205,
+      "git_tracked": true
     },
     {
       "original_path": "cap",
@@ -848,7 +899,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "CCC8F2A367967D1725F717954D98E93F8A4A20483D1C8114EE821F896EF0A33D",
-      "length": 16008
+      "length": 16008,
+      "git_tracked": false
     },
     {
       "original_path": "ctype.c",
@@ -857,7 +909,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "2595F7550844032DA09EA2A897FB17591A1CCDA2563759AC23C8103A993E3EB3",
-      "length": 190
+      "length": 190,
+      "git_tracked": true
     },
     {
       "original_path": "ctype",
@@ -866,7 +919,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "A6203C9D36DE07584C195E14018F749E520F47A659AFE2E8C056750218AB6ADC",
-      "length": 16096
+      "length": 16096,
+      "git_tracked": false
     },
     {
       "original_path": "ctype-2.c",
@@ -875,7 +929,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "C46FFF6A39BF9E4381377AE7A34C18C53B3DD5D08CDE4F8196F6BA8FE67F8AC7",
-      "length": 146
+      "length": 146,
+      "git_tracked": true
     },
     {
       "original_path": "ctype-2",
@@ -884,7 +939,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "57B70693B25660C44A1D89344F61BAB983AEE7D19FDC76FBC54A180031236679",
-      "length": 16056
+      "length": 16056,
+      "git_tracked": false
     },
     {
       "original_path": "typedf.c",
@@ -893,7 +949,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "12E5208D12B110B7E7CCA744BEA2A11CCEFDE9B63B9F42BBFEBA1C0CDC8D5B53",
-      "length": 679
+      "length": 679,
+      "git_tracked": true
     },
     {
       "original_path": "typedf",
@@ -902,7 +959,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "18A73127E06ADC94B58CCFF6035552D268659F3D851D1265B5B7CC9B4B16B2E1",
-      "length": 16096
+      "length": 16096,
+      "git_tracked": false
     },
     {
       "original_path": "boolean.c",
@@ -911,7 +969,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "19ED786122F1FA8EB0394D84D4CD7BD17A88766514CD05D12DF269C254A3EDDB",
-      "length": 185
+      "length": 185,
+      "git_tracked": true
     },
     {
       "original_path": "boolean",
@@ -920,7 +979,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "A90B97D5535A3B3579DD5186474445B4DC2F7092510AD4F2EE4DAA5A72BC6F9D",
-      "length": 15960
+      "length": 15960,
+      "git_tracked": false
     },
     {
       "original_path": "boolean-2.c",
@@ -929,7 +989,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "90950A841E4295CC154697DF66E642D85B7B58B95AEE1645942C558FA41680CB",
-      "length": 171
+      "length": 171,
+      "git_tracked": true
     },
     {
       "original_path": "boolean-2",
@@ -938,7 +999,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "8C9EB3B1F1FF5A171BCD2FC1E6E8E3C6A36CFCADF905CE95EFC2D4E755B034BC",
-      "length": 15968
+      "length": 15968,
+      "git_tracked": false
     },
     {
       "original_path": "fvr.c",
@@ -947,7 +1009,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "5C0A1D163FD0B58C4C692C0BA51C95283B4EEDD1EE988C8723DD642C7FC4F592",
-      "length": 543
+      "length": 543,
+      "git_tracked": true
     },
     {
       "original_path": "fvr",
@@ -956,7 +1019,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "548B7C0DE822338F41294EF951560478616CD316EC70B7247A78674431FF585D",
-      "length": 16040
+      "length": 16040,
+      "git_tracked": false
     },
     {
       "original_path": "twice_the_sum.c",
@@ -965,7 +1029,8 @@
       "kind": "c-source",
       "category": "exercisesInC",
       "sha256": "AB12B22C23339354D360B98088727C7E42986C8B13ED9659270C0716E5B8C217",
-      "length": 224
+      "length": 224,
+      "git_tracked": true
     },
     {
       "original_path": "twice_the_sum",
@@ -974,7 +1039,8 @@
       "kind": "executable",
       "category": "exercisesInC",
       "sha256": "99E64EFC3103F77A0B07C6DF7AE16DDAA30048B1928F291B8EE75386BE5C6856",
-      "length": 18160
+      "length": 18160,
+      "git_tracked": false
     },
     {
       "original_path": "letter_c.c",
@@ -983,7 +1049,8 @@
       "kind": "c-source",
       "category": "exercisesInC",
       "sha256": "2502B99FA91CA2401DC52848DC06F0F8316097A4916D615EE96E3BBAD44E397D",
-      "length": 220
+      "length": 220,
+      "git_tracked": true
     },
     {
       "original_path": "letter_c",
@@ -992,7 +1059,8 @@
       "kind": "executable",
       "category": "exercisesInC",
       "sha256": "D7390FE7D59AB044CEE1BF5ABD138268120373E90A3317E7F01F126957074E3C",
-      "length": 18096
+      "length": 18096,
+      "git_tracked": false
     },
     {
       "original_path": "++a++.c",
@@ -1001,7 +1069,8 @@
       "kind": "c-source",
       "category": "exercisesInC",
       "sha256": "B44CC9405F258ABF38BE22F66426AD9D8AD25E2ADD6CBACD5D536DA4D7E176F6",
-      "length": 286
+      "length": 286,
+      "git_tracked": true
     },
     {
       "original_path": "++a++",
@@ -1010,7 +1079,8 @@
       "kind": "executable",
       "category": "exercisesInC",
       "sha256": "6991E96CE9D0AC269C9D5C62409C54DA45A39AC628AF97DB1264BBABB76E81D9",
-      "length": 18208
+      "length": 18208,
+      "git_tracked": false
     },
     {
       "original_path": "randomness.c",
@@ -1019,7 +1089,8 @@
       "kind": "c-source",
       "category": "exercisesInC",
       "sha256": "6250105DF4E357DC4CD8FF6BF49AF91DF221DD668B356835806CA76913613DD2",
-      "length": 345
+      "length": 345,
+      "git_tracked": true
     },
     {
       "original_path": "randomness",
@@ -1028,7 +1099,8 @@
       "kind": "executable",
       "category": "exercisesInC",
       "sha256": "86C3D6AA0D1D4A460D918BD2D61ED965D84B0F32EE28A211AAE731DBBC177E5A",
-      "length": 18152
+      "length": 18152,
+      "git_tracked": false
     },
     {
       "original_path": "find_max.c",
@@ -1037,7 +1109,8 @@
       "kind": "c-source",
       "category": "exercisesInC",
       "sha256": "8CABC40AE6CF687AA588B80E37396A5B22B58E3F1711A9367E4AFE54B9C6311E",
-      "length": 350
+      "length": 350,
+      "git_tracked": true
     },
     {
       "original_path": "find_max",
@@ -1046,7 +1119,8 @@
       "kind": "executable",
       "category": "exercisesInC",
       "sha256": "9939B89781E8EE3FF8C0FFCD0C163A00BAD995C5B35FDD33BA645C42B223AD18",
-      "length": 18208
+      "length": 18208,
+      "git_tracked": false
     },
     {
       "original_path": "odd_num.c",
@@ -1055,7 +1129,8 @@
       "kind": "c-source",
       "category": "exercisesInC",
       "sha256": "300DAC1E39A963E8FE556FA45531DEF407009D4A7927BCC93DB2E626A6B7025E",
-      "length": 939
+      "length": 939,
+      "git_tracked": true
     },
     {
       "original_path": "odd_num",
@@ -1064,7 +1139,8 @@
       "kind": "executable",
       "category": "exercisesInC",
       "sha256": "272AA13D0E2290E27691443B153920635441A24FC233A16052D7A2003D09B2C8",
-      "length": 16264
+      "length": 16264,
+      "git_tracked": false
     },
     {
       "original_path": "linear_rand.c",
@@ -1073,7 +1149,8 @@
       "kind": "c-source",
       "category": "exercisesInC",
       "sha256": "7E3316FE709B1D6B959DBD58FA6E30B900FDD80B6957797C14DDDBBB25524EF1",
-      "length": 274
+      "length": 274,
+      "git_tracked": true
     },
     {
       "original_path": "linear_rand",
@@ -1082,7 +1159,8 @@
       "kind": "executable",
       "category": "exercisesInC",
       "sha256": "F4ADBD821A2E215051481200AA904C9BB9578B408994D1589FD15E1EB56B88EE",
-      "length": 18184
+      "length": 18184,
+      "git_tracked": false
     },
     {
       "original_path": "higher_lower.c",
@@ -1091,7 +1169,8 @@
       "kind": "c-source",
       "category": "exercisesInC",
       "sha256": "0A975C51443AAFBD932392DB2E21F17784E783BF4F122EB502F0C6D38BDC7E88",
-      "length": 591
+      "length": 591,
+      "git_tracked": true
     },
     {
       "original_path": "higher_lower",
@@ -1100,7 +1179,8 @@
       "kind": "executable",
       "category": "exercisesInC",
       "sha256": "D316C8A33F7A14215AC7B57A088FADE98D92F83BDD36A38E29B39519681539FD",
-      "length": 16136
+      "length": 16136,
+      "git_tracked": false
     },
     {
       "original_path": "ATM.c",
@@ -1109,7 +1189,8 @@
       "kind": "c-source",
       "category": "exercisesInC",
       "sha256": "73F1AED1BCAACF8CA0F242BB4906633B0384A1DBA7317431843F701AE36D0337",
-      "length": 323
+      "length": 323,
+      "git_tracked": true
     },
     {
       "original_path": "ATM",
@@ -1118,7 +1199,8 @@
       "kind": "executable",
       "category": "exercisesInC",
       "sha256": "6BFD6C20EDE698D04E4451949A446D05EAF4A0157D931B7A7AB99D44F3E506DD",
-      "length": 16104
+      "length": 16104,
+      "git_tracked": false
     },
     {
       "original_path": "triangle_num.c",
@@ -1127,7 +1209,8 @@
       "kind": "c-source",
       "category": "exercisesInC",
       "sha256": "B09CAE7B4ACDE19484117046E810B74CE7A1EF5330780F4E6A62011EFA2B05D1",
-      "length": 260
+      "length": 260,
+      "git_tracked": true
     },
     {
       "original_path": "triangle_num",
@@ -1136,7 +1219,8 @@
       "kind": "executable",
       "category": "exercisesInC",
       "sha256": "BE041C613782E8BAA0EAE5D07F97610DCC97288D737B4A4E4EB05E90B8A38963",
-      "length": 16112
+      "length": 16112,
+      "git_tracked": false
     },
     {
       "original_path": "Collatz_conjecture.c",
@@ -1145,7 +1229,8 @@
       "kind": "c-source",
       "category": "exercisesInC",
       "sha256": "3A55B1E45C741C4C05C7592205DD1A1ED9DEC546D38F5FD4D77B8768700F1FBA",
-      "length": 290
+      "length": 290,
+      "git_tracked": true
     },
     {
       "original_path": "Collatz_conjecture",
@@ -1154,7 +1239,8 @@
       "kind": "executable",
       "category": "exercisesInC",
       "sha256": "3D448F0EDE574A0EDA9229C9133E93527015A8D660CEB2E928EEBF53E8ECF5F2",
-      "length": 18264
+      "length": 18264,
+      "git_tracked": false
     },
     {
       "original_path": "Collatz_conjecture-lseq.c",
@@ -1163,7 +1249,8 @@
       "kind": "c-source",
       "category": "exercisesInC",
       "sha256": "4C70B59A924C2D24500904E84F3EF9E300A1C5CC3C16ADDD4B9639A92FE6D733",
-      "length": 616
+      "length": 616,
+      "git_tracked": true
     },
     {
       "original_path": "Collatz_conjecture-lseq",
@@ -1172,7 +1259,8 @@
       "kind": "executable",
       "category": "exercisesInC",
       "sha256": "312678D1767191EE6CA1D2652177993A9D44A890E6201B9992C2216CF671E9FB",
-      "length": 15984
+      "length": 15984,
+      "git_tracked": false
     },
     {
       "original_path": "primes.c",
@@ -1181,7 +1269,8 @@
       "kind": "c-source",
       "category": "exercisesInC",
       "sha256": "A8A1CCA5D49E45A44322DA3B158BEF24B7ABE54A43D327FC77D3FA3DE5DA6E8C",
-      "length": 344
+      "length": 344,
+      "git_tracked": true
     },
     {
       "original_path": "primes",
@@ -1190,7 +1279,8 @@
       "kind": "executable",
       "category": "exercisesInC",
       "sha256": "DA5C2AA302A72D2A9DC991399B26DBA62B45B8BA75CA6D0D3466DD4AD25E31A1",
-      "length": 15960
+      "length": 15960,
+      "git_tracked": false
     },
     {
       "original_path": "triangles.c",
@@ -1199,7 +1289,8 @@
       "kind": "c-source",
       "category": "exercisesInC",
       "sha256": "EFFDA530C18A589FED123BABCC67207602FE527BB0060F5A3A4587DA05896255",
-      "length": 2403
+      "length": 2403,
+      "git_tracked": true
     },
     {
       "original_path": "triangles",
@@ -1208,7 +1299,8 @@
       "kind": "executable",
       "category": "exercisesInC",
       "sha256": "4EDD6DD3322C0667E281A71C45F6115C2C770FE67F8FD4DDD0553BDEDD1C5D67",
-      "length": 16232
+      "length": 16232,
+      "git_tracked": false
     },
     {
       "original_path": "time.c",
@@ -1217,7 +1309,8 @@
       "kind": "c-source",
       "category": "exercisesInC",
       "sha256": "E15A40375F4E881D3CBCB1F0708ADF96F4799C567180B699B4501634D1E2F4EF",
-      "length": 354
+      "length": 354,
+      "git_tracked": true
     },
     {
       "original_path": "time",
@@ -1226,7 +1319,8 @@
       "kind": "executable",
       "category": "exercisesInC",
       "sha256": "C37C6054623FD9F8ABBA44AB10AA5348A1EAD7C0FB9E2F620D9B4A38AE70BE4D",
-      "length": 16104
+      "length": 16104,
+      "git_tracked": false
     },
     {
       "original_path": "primes_end_with_3.c",
@@ -1235,7 +1329,8 @@
       "kind": "c-source",
       "category": "exercisesInC",
       "sha256": "20E5A8C647501F6EE856E3659E665256F6AABDC6861F059CC6C7C1FE9E6A5A47",
-      "length": 413
+      "length": 413,
+      "git_tracked": true
     },
     {
       "original_path": "primes_end_with_3",
@@ -1244,7 +1339,8 @@
       "kind": "executable",
       "category": "exercisesInC",
       "sha256": "F0225EB5B677D4614D2A4D26E226580C2D101C1EDF408B4121D609E357B2E1C9",
-      "length": 15976
+      "length": 15976,
+      "git_tracked": false
     },
     {
       "original_path": "strmerge.c",
@@ -1253,7 +1349,8 @@
       "kind": "c-source",
       "category": "exercisesInC",
       "sha256": "5C3BD0AEEE730F0545BD87786D75717D2ABC9C3CBAC328AC0EC11A6D26B9369F",
-      "length": 1553
+      "length": 1553,
+      "git_tracked": true
     },
     {
       "original_path": "strmerge",
@@ -1262,7 +1359,8 @@
       "kind": "executable",
       "category": "exercisesInC",
       "sha256": "388AA520B9DBD52E361F5DBE4E1A0A91A3F7D8D7DBC1DBDFA7D0A9D45F79C959",
-      "length": 16304
+      "length": 16304,
+      "git_tracked": false
     },
     {
       "original_path": "my_test.c",
@@ -1271,7 +1369,8 @@
       "kind": "c-source",
       "category": "cnotes",
       "sha256": "0C2E546385F41085937D5F8B563E22D87052E056E4D63F94B3614311BE9DC548",
-      "length": 247
+      "length": 247,
+      "git_tracked": true
     },
     {
       "original_path": "my_test",
@@ -1280,7 +1379,8 @@
       "kind": "executable",
       "category": "cnotes",
       "sha256": "7D97186FAE6D3DA3C596C9B1467E6F5DE9828A22EAF4C0A93D6ADCC567FD05E1",
-      "length": 21632
+      "length": 21632,
+      "git_tracked": false
     },
     {
       "original_path": "quotes.sh",
@@ -1289,7 +1389,8 @@
       "kind": "shell",
       "category": "cnotes",
       "sha256": "7DFE1A4DD6E3082A01B8350E1FCFCE3962D009F2AD1B4A042D7DFBFF4139E448",
-      "length": 134
+      "length": 134,
+      "git_tracked": true
     }
   ],
   "total_files_verified": 101,
@@ -1304,5 +1405,13 @@
     "state": "original_history_restored",
     "remote_name": "origin",
     "remote_repository": "https://github.com/willwzc/test"
+  },
+  "tracking_policy": {
+    "date": "2026-11-03",
+    "compiled_binaries": "ignored_and_untracked",
+    "local_compiled_files": "preserved",
+    "history": "preserved",
+    "ignore_file": ".gitignore",
+    "preferred_build_output": "build/"
   }
 }
