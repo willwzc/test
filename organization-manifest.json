@@ -1412,6 +1412,7 @@
     "local_compiled_files": "preserved",
     "history": "preserved",
     "ignore_file": ".gitignore",
-    "preferred_build_output": "build/"
+    "preferred_build_output": "beside_source",
+    "extensionless_output_rule": "Ignore extensionless files in cnotes/ and exercisesInC/, including subdirectories, except named build files and documentation."
   }
 }
